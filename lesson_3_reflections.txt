@@ -13,6 +13,9 @@ done to the code may conflict with the ones on remote.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
+Fork: Make a copy of the repository from other user on github server
+Clone: Make an exact copy of the entire repository on a local system
+Branch: Make a seperate branch of the code on the same repository
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
