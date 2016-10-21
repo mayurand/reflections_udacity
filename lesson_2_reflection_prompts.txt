@@ -18,6 +18,7 @@ They give a snapshot of the entire project on one page.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It results into combination of the code of the two branches. It is represented for better and easier understanding.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
