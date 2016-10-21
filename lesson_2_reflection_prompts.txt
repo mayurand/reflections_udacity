@@ -22,3 +22,4 @@ It results into combination of the code of the two branches. It is represented f
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic merging is very easy and one command method while manual merging is very tedious and boring.
